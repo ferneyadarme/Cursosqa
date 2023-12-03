@@ -1,3 +1,17 @@
 prubas rama 2
 
 en este caso agregue este archivo para la rama 2
+
+
+public class string () {
+     return real + "+"+ imaginario + "i"
+    }
+}
+
+prueba agregando informacion rama 2
+
+
+proximamente
+
+agregamos mas informacion par aun comit 5 y poder verificar mejor en git
+
